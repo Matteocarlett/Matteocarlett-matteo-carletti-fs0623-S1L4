@@ -1,0 +1,86 @@
+/* IMPOSTAZIONI GENERALI */
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+
+
+html{   
+     font-family:'Poppins', sans-serif;
+    text-align: center;
+    
+}
+body{
+    margin: 8px;
+    background:url(assets/img/sfondo.png) ;
+    
+}
+
+header{
+    border: 2px solid rgba(128, 128, 128, 0.589);
+    margin: 20px;
+    background-color: rgb(13, 123, 226);
+    padding:10px ;
+}
+#container{
+    border: 2px solid rgba(128, 128, 128, 0.562);
+    padding: px;
+}
+strong{
+    color: rgb(154, 14, 219);
+}
+main{
+    background-color: white;
+    padding: 10px 15px 30px 15px;
+}
+footer{
+    background-color: rgb(14, 111, 202);
+    padding: 30px 15px 50px 15px;
+}
+header nav ul li a{
+    text-decoration: none;
+}
+ table tr:nth-child(even)
+ {background-color: rgba(128, 128, 128, 0.281);
+ }
+ table{
+    border:1px solid rgba(128, 128, 128, 0.274)
+}
+button{
+    background-color: rgba(9, 61, 121, 0.658);
+}
+input{
+    border-bottom: dashed;
+}
+address a{
+    color: rgb(211, 24, 195);
+}
+aside div a {
+    color: rgb(7, 116, 167);
+}
+article div p a{
+    color: rgb(7, 116, 167);
+}
+h2{
+
+padding: 20px;
+}
+aside div{
+    border: 1px solid grey;
+    padding: 2px;
+}
+
+
+
+
+
+/* HEADER */
+
+/* MAIN */
+
+/* ELEMENTI NEL MAIN - ARTICLE */
+
+/* TABELLE */
+
+/* FORM */
+
+/* ELEMENTI NELL' ASIDE */
+
+/* FOOTER */
